@@ -17,11 +17,11 @@ Clone repo https://github.com/limavfabio/My-Portfolio
 
 ### Prerequisites
 
-Any browser
+Any modern browser
 
-### Setup
+### Live Demo
 
-Just open it
+https://limavfabio.github.io/
 
 ## Authors
 
