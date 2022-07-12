@@ -19,9 +19,9 @@ Clone repo https://github.com/limavfabio/My-Portfolio
 
 Any browser
 
-### Setup
+### Live Demo
 
-Just open it
+http://limavfabio.github.io
 
 ## Authors
 
